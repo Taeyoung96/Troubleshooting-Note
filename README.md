@@ -1,4 +1,4 @@
-# Trobleshooting-Note  
+# Troubleshooting-Note  
 
 모든 문제 해결 방법을 블로그에 포스팅하면 좋지만,  
 구글링을 통해 쉽게 나오는 방법들에 대해서는 굳이 그럴 필요가 없다고 생각한다.  
